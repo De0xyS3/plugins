@@ -1,0 +1,349 @@
+L 12/10/2022 - 03:38:37: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20221210.log") (Version "1.11.0.6924")
+L 12/10/2022 - 03:38:37: -------- Mapchange to c9m1_alleys --------
+L 12/10/2022 - 03:43:09: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20221210.log") (Version "1.11.0.6924")
+L 12/10/2022 - 03:43:09: -------- Mapchange to c2m1_highway --------
+L 12/10/2022 - 03:45:31: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20221210.log") (Version "1.11.0.6924")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_wait_command") (value "0")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_autoteambalance") (value "0")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec_global") (value "10")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec") (value "3")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_player_stuck_tolerance") (value "5")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_stats") (value "0")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_clockcorrection_msecs") (value "25")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "decalfrequency") (value "0.1")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_cs_weapon_spawn_chance") (value "1.00")
+L 12/10/2022 - 03:45:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_interrupt") (value "150")
+L 12/10/2022 - 03:50:19: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20221210.log") (Version "1.11.0.6924")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_wait_command") (value "0")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_autoteambalance") (value "0")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec_global") (value "10")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec") (value "3")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_player_stuck_tolerance") (value "5")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_stats") (value "0")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_clockcorrection_msecs") (value "25")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "decalfrequency") (value "0.1")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_cs_weapon_spawn_chance") (value "1.00")
+L 12/10/2022 - 03:50:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_interrupt") (value "150")
+L 12/10/2022 - 04:11:16: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20221210.log") (Version "1.11.0.6924")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_wait_command") (value "0")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_autoteambalance") (value "0")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec_global") (value "10")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec") (value "3")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_player_stuck_tolerance") (value "5")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_stats") (value "0")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_clockcorrection_msecs") (value "25")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "decalfrequency") (value "0.1")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_cs_weapon_spawn_chance") (value "1.00")
+L 12/10/2022 - 04:11:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_interrupt") (value "150")
+L 12/10/2022 - 04:58:03: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20221210.log") (Version "1.11.0.6924")
+L 12/10/2022 - 04:58:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_wait_command") (value "0")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_autoteambalance") (value "0")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec_global") (value "10")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec") (value "3")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_player_stuck_tolerance") (value "5")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_stats") (value "0")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_clockcorrection_msecs") (value "25")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "decalfrequency") (value "0.1")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_cs_weapon_spawn_chance") (value "1.00")
+L 12/10/2022 - 04:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_interrupt") (value "150")
+L 12/10/2022 - 05:09:59: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20221210.log") (Version "1.11.0.6924")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_wait_command") (value "0")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_autoteambalance") (value "0")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec_global") (value "10")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec") (value "3")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_player_stuck_tolerance") (value "5")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_stats") (value "0")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_clockcorrection_msecs") (value "25")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "decalfrequency") (value "0.1")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_cs_weapon_spawn_chance") (value "1.00")
+L 12/10/2022 - 05:09:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_interrupt") (value "150")
+L 12/10/2022 - 17:11:31: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20221210.log") (Version "1.11.0.6924")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_wait_command") (value "0")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_autoteambalance") (value "0")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec_global") (value "10")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec") (value "3")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_player_stuck_tolerance") (value "5")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_stats") (value "0")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_clockcorrection_msecs") (value "25")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "decalfrequency") (value "0.1")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_cs_weapon_spawn_chance") (value "1.00")
+L 12/10/2022 - 17:11:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_interrupt") (value "150")
+L 12/10/2022 - 17:41:54: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20221210.log") (Version "1.11.0.6924")
+L 12/10/2022 - 17:41:54: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_wait_command") (value "0")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_autoteambalance") (value "0")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec_global") (value "10")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec") (value "3")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_player_stuck_tolerance") (value "5")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_stats") (value "0")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_clockcorrection_msecs") (value "25")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "decalfrequency") (value "0.1")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_cs_weapon_spawn_chance") (value "1.00")
+L 12/10/2022 - 17:42:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_interrupt") (value "150")
+L 12/10/2022 - 18:02:58: -------- Mapchange to c14m2_lighthouse --------
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_wait_command") (value "0")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_autoteambalance") (value "0")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec_global") (value "10")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec") (value "3")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_player_stuck_tolerance") (value "5")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_stats") (value "0")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_clockcorrection_msecs") (value "25")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "decalfrequency") (value "0.1")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_cs_weapon_spawn_chance") (value "1.00")
+L 12/10/2022 - 18:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_interrupt") (value "150")
+L 12/10/2022 - 18:05:34: -------- Mapchange to c14m1_junkyard --------
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_wait_command") (value "0")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_autoteambalance") (value "0")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec_global") (value "10")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec") (value "3")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_player_stuck_tolerance") (value "5")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_stats") (value "0")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_clockcorrection_msecs") (value "25")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "decalfrequency") (value "0.1")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_cs_weapon_spawn_chance") (value "1.00")
+L 12/10/2022 - 18:05:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_interrupt") (value "150")
+L 12/10/2022 - 18:13:26: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20221210.log") (Version "1.11.0.6924")
+L 12/10/2022 - 18:13:26: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 12/10/2022 - 18:13:26: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 12/10/2022 - 18:13:26: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_wait_command") (value "0")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_autoteambalance") (value "0")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec_global") (value "10")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec") (value "3")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_player_stuck_tolerance") (value "5")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_stats") (value "0")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_clockcorrection_msecs") (value "25")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "decalfrequency") (value "0.1")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_cs_weapon_spawn_chance") (value "1.00")
+L 12/10/2022 - 18:13:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_interrupt") (value "150")
+L 12/10/2022 - 18:22:46: -------- Mapchange to c14m2_lighthouse --------
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_wait_command") (value "0")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_autoteambalance") (value "0")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec_global") (value "10")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec") (value "3")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_player_stuck_tolerance") (value "5")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_stats") (value "0")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_clockcorrection_msecs") (value "25")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "decalfrequency") (value "0.1")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_cs_weapon_spawn_chance") (value "1.00")
+L 12/10/2022 - 18:22:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_interrupt") (value "150")
+L 12/10/2022 - 18:28:20: -------- Mapchange to c14m1_junkyard --------
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_wait_command") (value "0")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_autoteambalance") (value "0")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec_global") (value "10")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec") (value "3")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_player_stuck_tolerance") (value "5")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_stats") (value "0")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_clockcorrection_msecs") (value "25")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "decalfrequency") (value "0.1")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_cs_weapon_spawn_chance") (value "1.00")
+L 12/10/2022 - 18:28:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_interrupt") (value "150")
+L 12/10/2022 - 18:43:42: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20221210.log") (Version "1.11.0.6924")
+L 12/10/2022 - 18:43:42: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 12/10/2022 - 18:43:42: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 12/10/2022 - 18:43:42: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_wait_command") (value "0")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_autoteambalance") (value "0")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec_global") (value "10")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec") (value "3")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_player_stuck_tolerance") (value "5")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_stats") (value "0")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_clockcorrection_msecs") (value "25")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "decalfrequency") (value "0.1")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_cs_weapon_spawn_chance") (value "1.00")
+L 12/10/2022 - 18:44:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_interrupt") (value "150")
+L 12/10/2022 - 19:08:15: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20221210.log") (Version "1.11.0.6924")
+L 12/10/2022 - 19:08:15: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 12/10/2022 - 19:08:15: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 12/10/2022 - 19:08:15: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_wait_command") (value "0")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_autoteambalance") (value "0")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec_global") (value "10")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec") (value "3")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_player_stuck_tolerance") (value "5")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_stats") (value "0")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_clockcorrection_msecs") (value "25")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "decalfrequency") (value "0.1")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_cs_weapon_spawn_chance") (value "1.00")
+L 12/10/2022 - 19:08:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_interrupt") (value "150")
+L 12/10/2022 - 19:54:46: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20221210.log") (Version "1.11.0.6924")
+L 12/10/2022 - 19:54:46: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 12/10/2022 - 19:54:46: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 12/10/2022 - 19:54:46: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 12/10/2022 - 19:54:46: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 12/10/2022 - 19:54:46: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_allow_wait_command") (value "0")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_autoteambalance") (value "0")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec_global") (value "10")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_sec") (value "3")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_player_stuck_tolerance") (value "5")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_stats") (value "0")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_clockcorrection_msecs") (value "25")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "decalfrequency") (value "0.1")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_cs_weapon_spawn_chance") (value "1.00")
+L 12/10/2022 - 19:55:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_interrupt") (value "150")

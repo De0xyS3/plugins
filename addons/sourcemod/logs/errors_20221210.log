@@ -1,0 +1,278 @@
+L 12/10/2022 - 03:37:37: SourceMod error session started
+L 12/10/2022 - 03:37:37: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 03:37:37: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 12/10/2022 - 03:37:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 03:37:38: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 03:37:38: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 03:38:37: Error log file session closed.
+L 12/10/2022 - 03:38:37: SourceMod error session started
+L 12/10/2022 - 03:38:37: Info (map "c9m1_alleys") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 03:38:37: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 03:38:37: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 03:38:37: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 03:39:11: SourceMod error session started
+L 12/10/2022 - 03:39:11: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 03:39:11: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 12/10/2022 - 03:39:11: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 03:39:11: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 03:39:11: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 03:42:11: SourceMod error session started
+L 12/10/2022 - 03:42:11: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 03:42:11: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 12/10/2022 - 03:42:12: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 03:42:12: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 03:42:12: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 03:43:09: Error log file session closed.
+L 12/10/2022 - 03:43:09: SourceMod error session started
+L 12/10/2022 - 03:43:09: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 03:43:09: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 03:43:09: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 03:43:09: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 03:45:20: SourceMod error session started
+L 12/10/2022 - 03:45:20: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 03:45:20: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 12/10/2022 - 03:45:20: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 03:45:20: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 03:45:20: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 03:50:00: SourceMod error session started
+L 12/10/2022 - 03:50:00: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 03:50:00: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 12/10/2022 - 03:50:01: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 03:50:01: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 03:50:01: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 04:11:05: SourceMod error session started
+L 12/10/2022 - 04:11:05: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 04:11:05: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 12/10/2022 - 04:11:05: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 04:11:05: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 04:11:05: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 04:57:46: SourceMod error session started
+L 12/10/2022 - 04:57:46: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 04:57:46: [SM] Unable to load extension "actions.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/actions.ext.so: cannot open shared object file: No such file or directory
+L 12/10/2022 - 04:57:47: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 12/10/2022 - 04:57:47: [SM] Unable to load plugin "l4d_tankhelper.smx": Required extension "Actions" file("actions.ext") not running
+L 12/10/2022 - 04:57:47: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 04:57:47: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 04:57:47: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 05:09:29: SourceMod error session started
+L 12/10/2022 - 05:09:29: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 05:09:29: [SM] Unable to load extension "actions.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/actions.ext.so: cannot open shared object file: No such file or directory
+L 12/10/2022 - 05:09:29: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 12/10/2022 - 05:09:29: [SM] Unable to load plugin "l4d_tankhelper.smx": Required extension "Actions" file("actions.ext") not running
+L 12/10/2022 - 05:09:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 05:09:29: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 05:09:29: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 17:10:59: SourceMod error session started
+L 12/10/2022 - 17:10:59: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 17:10:59: [SM] Unable to load extension "actions.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/actions.ext.so: cannot open shared object file: No such file or directory
+L 12/10/2022 - 17:11:00: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 12/10/2022 - 17:11:00: [SM] Unable to load plugin "l4d_tankhelper.smx": Required extension "Actions" file("actions.ext") not running
+L 12/10/2022 - 17:11:00: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 17:11:00: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 17:11:00: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 17:41:53: SourceMod error session started
+L 12/10/2022 - 17:41:53: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 17:41:53: [SM] Failed to load plugin "l4d_zcs.smx": [+] APL2: Error: Plugin supports Left 4 Dead only, exiting..
+L 12/10/2022 - 17:41:53: [SM] Unable to load extension "actions.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/actions.ext.so: cannot open shared object file: No such file or directory
+L 12/10/2022 - 17:41:53: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 12/10/2022 - 17:41:54: [SM] Unable to load plugin "l4d_tankhelper.smx": Required extension "Actions" file("actions.ext") not running
+L 12/10/2022 - 17:41:54: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 17:41:54: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 17:41:54: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 18:02:58: Error log file session closed.
+L 12/10/2022 - 18:02:58: SourceMod error session started
+L 12/10/2022 - 18:02:58: Info (map "c14m2_lighthouse") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 18:02:58: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 18:02:58: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 18:02:58: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 18:05:34: Error log file session closed.
+L 12/10/2022 - 18:05:34: SourceMod error session started
+L 12/10/2022 - 18:05:34: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 18:05:34: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 18:05:34: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 18:05:34: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 18:13:24: SourceMod error session started
+L 12/10/2022 - 18:13:24: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 18:13:24: [SM] Failed to load plugin "l4d_zcs.smx": [+] APL2: Error: Plugin supports Left 4 Dead only, exiting..
+L 12/10/2022 - 18:13:24: [SM] Unable to load extension "actions.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/actions.ext.so: cannot open shared object file: No such file or directory
+L 12/10/2022 - 18:13:24: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 12/10/2022 - 18:13:25: [SM] Unable to load plugin "l4d_tankhelper.smx": Required extension "Actions" file("actions.ext") not running
+L 12/10/2022 - 18:13:25: [SM] Error parsing gameconfig file "/home/louis/l4d2/left4dead2/addons/sourcemod/gamedata/SuperTanks.txt":
+L 12/10/2022 - 18:13:25: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/10/2022 - 18:13:25: [SM] Exception reported: Unable to open SuperTanks: File could not be opened: No such file or directory
+L 12/10/2022 - 18:13:25: [SM] Blaming: SuperTanks.smx
+L 12/10/2022 - 18:13:25: [SM] Call stack trace:
+L 12/10/2022 - 18:13:25: [SM]   [0] LoadGameConfigFile
+L 12/10/2022 - 18:13:25: [SM]   [1] Line 743, C:\Users\gabrie lfaustino\Desktop\arquivos\sourcemod1\scripting\SuperTanks.sp::InitSDKCalls
+L 12/10/2022 - 18:13:25: [SM]   [2] Line 732, C:\Users\gabrie lfaustino\Desktop\arquivos\sourcemod1\scripting\SuperTanks.sp::OnPluginStart
+L 12/10/2022 - 18:13:25: [SM] Unable to load plugin "SuperTanks.smx": Error detected in plugin startup (see error logs)
+L 12/10/2022 - 18:13:26: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 18:13:26: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 18:13:26: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 18:22:46: Error log file session closed.
+L 12/10/2022 - 18:22:46: SourceMod error session started
+L 12/10/2022 - 18:22:46: Info (map "c14m2_lighthouse") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 18:22:46: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 18:22:46: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 18:22:46: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 18:26:36: [SM] Plugin "l4d2_tankhp.smx" encountered error 23: Native detected error
+L 12/10/2022 - 18:26:36: [SM] Invalid data handle 7 (error 1) passed during timer end with TIMER_DATA_HNDL_CLOSE
+L 12/10/2022 - 18:26:36: [SM] Unable to call function "GetTankHealth" due to above error(s).
+L 12/10/2022 - 18:28:20: Error log file session closed.
+L 12/10/2022 - 18:28:20: SourceMod error session started
+L 12/10/2022 - 18:28:20: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 18:28:20: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 18:28:20: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 18:28:20: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 18:43:41: SourceMod error session started
+L 12/10/2022 - 18:43:41: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 18:43:41: [SM] Failed to load plugin "l4d_zcs.smx": [+] APL2: Error: Plugin supports Left 4 Dead only, exiting..
+L 12/10/2022 - 18:43:41: [SM] Unable to load extension "actions.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/actions.ext.so: cannot open shared object file: No such file or directory
+L 12/10/2022 - 18:43:41: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 12/10/2022 - 18:43:41: [SM] Failed to load plugin "disable/addons/LMC/plugins/LMCL4D1SetTransmit.smx": Plugin only supports Left 4 Dead.
+L 12/10/2022 - 18:43:41: [SM] Failed to load plugin "disable/addons/LMC/plugins/LMC_L4D1_Menu_Choosing.smx": Plugin only supports Left 4 Dead.
+L 12/10/2022 - 18:43:41: [SM] Failed to load plugin "disable/addons/LMC/plugins/LMCL4D1CDeathHandler.smx": Plugin only supports Left 4 Dead.
+L 12/10/2022 - 18:43:41: [SM] Failed to load plugin "disable/addons/LMC/plugins/LMC_L4D1_RandomSpawns.smx": Plugin only supports Left 4 Dead.
+L 12/10/2022 - 18:43:41: [SM] Unable to load plugin "l4d_tankhelper.smx": Required extension "Actions" file("actions.ext") not running
+L 12/10/2022 - 18:43:41: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 12/10/2022 - 18:43:41: [SM] Error (line 0, column 0): Stream failed to open
+L 12/10/2022 - 18:43:41: [SM] Fatal error encountered parsing translation file "lmc.phrases.txt"
+L 12/10/2022 - 18:43:41: [SM] Error (line 0, column 0): Stream failed to open
+L 12/10/2022 - 18:43:41: [SM] Error parsing gameconfig file "/home/louis/l4d2/left4dead2/addons/sourcemod/gamedata/SuperTanks.txt":
+L 12/10/2022 - 18:43:41: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/10/2022 - 18:43:41: [SM] Exception reported: Unable to open SuperTanks: File could not be opened: No such file or directory
+L 12/10/2022 - 18:43:41: [SM] Blaming: SuperTanks.smx
+L 12/10/2022 - 18:43:41: [SM] Call stack trace:
+L 12/10/2022 - 18:43:41: [SM]   [0] LoadGameConfigFile
+L 12/10/2022 - 18:43:41: [SM]   [1] Line 743, C:\Users\gabrie lfaustino\Desktop\arquivos\sourcemod1\scripting\SuperTanks.sp::InitSDKCalls
+L 12/10/2022 - 18:43:41: [SM]   [2] Line 732, C:\Users\gabrie lfaustino\Desktop\arquivos\sourcemod1\scripting\SuperTanks.sp::OnPluginStart
+L 12/10/2022 - 18:43:41: [SM] Unable to load plugin "SuperTanks.smx": Error detected in plugin startup (see error logs)
+L 12/10/2022 - 18:43:42: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 12/10/2022 - 18:43:42: [SM] Error (line 0, column 0): Stream failed to open
+L 12/10/2022 - 18:43:42: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 18:43:42: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 18:43:42: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 18:45:13: [SM] Exception reported: Language phrase "Change_Model_Help_Chat" not found (arg 4)
+L 12/10/2022 - 18:45:13: [SM] Blaming: disable/addons/LMC/plugins/LMC_L4D2_Menu_Choosing.smx
+L 12/10/2022 - 18:45:13: [SM] Call stack trace:
+L 12/10/2022 - 18:45:13: [SM]   [0] VFormat
+L 12/10/2022 - 18:45:13: [SM]   [1] Line 144, D:\BasicPawn\1.9stuff\include\LMCCore.inc::CPrintToChat
+L 12/10/2022 - 18:45:13: [SM]   [2] Line 1089, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::iClientInfo
+L 12/10/2022 - 18:50:58: [SM] Exception reported: Language phrase "Unsupported_Jockey" not found (arg 4)
+L 12/10/2022 - 18:50:58: [SM] Blaming: disable/addons/LMC/plugins/LMC_L4D2_Menu_Choosing.smx
+L 12/10/2022 - 18:50:58: [SM] Call stack trace:
+L 12/10/2022 - 18:50:58: [SM]   [0] VFormat
+L 12/10/2022 - 18:50:58: [SM]   [1] Line 144, D:\BasicPawn\1.9stuff\include\LMCCore.inc::CPrintToChat
+L 12/10/2022 - 18:50:58: [SM]   [2] Line 679, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::ModelIndex
+L 12/10/2022 - 18:50:58: [SM]   [3] Line 1225, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::OnClientCookiesCached
+L 12/10/2022 - 18:51:14: [SM] Exception reported: Language phrase "Disabled_Models_Tank" not found (arg 4)
+L 12/10/2022 - 18:51:14: [SM] Blaming: disable/addons/LMC/plugins/LMC_L4D2_Menu_Choosing.smx
+L 12/10/2022 - 18:51:14: [SM] Call stack trace:
+L 12/10/2022 - 18:51:14: [SM]   [0] VFormat
+L 12/10/2022 - 18:51:14: [SM]   [1] Line 144, D:\BasicPawn\1.9stuff\include\LMCCore.inc::CPrintToChat
+L 12/10/2022 - 18:51:14: [SM]   [2] Line 702, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::ModelIndex
+L 12/10/2022 - 18:51:14: [SM]   [3] Line 1225, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::OnClientCookiesCached
+L 12/10/2022 - 18:51:16: [SM] Plugin "l4d2_tankhp.smx" encountered error 23: Native detected error
+L 12/10/2022 - 18:51:16: [SM] Invalid data handle 7 (error 1) passed during timer end with TIMER_DATA_HNDL_CLOSE
+L 12/10/2022 - 18:51:16: [SM] Unable to call function "GetTankHealth" due to above error(s).
+L 12/10/2022 - 18:51:18: [SM] Exception reported: Language phrase "Unsupported_Spitter" not found (arg 4)
+L 12/10/2022 - 18:51:18: [SM] Blaming: disable/addons/LMC/plugins/LMC_L4D2_Menu_Choosing.smx
+L 12/10/2022 - 18:51:18: [SM] Call stack trace:
+L 12/10/2022 - 18:51:18: [SM]   [0] VFormat
+L 12/10/2022 - 18:51:18: [SM]   [1] Line 144, D:\BasicPawn\1.9stuff\include\LMCCore.inc::CPrintToChat
+L 12/10/2022 - 18:51:18: [SM]   [2] Line 670, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::ModelIndex
+L 12/10/2022 - 18:51:18: [SM]   [3] Line 1225, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::OnClientCookiesCached
+L 12/10/2022 - 18:53:22: [SM] Exception reported: Language phrase "Unsupported_Jockey" not found (arg 4)
+L 12/10/2022 - 18:53:22: [SM] Blaming: disable/addons/LMC/plugins/LMC_L4D2_Menu_Choosing.smx
+L 12/10/2022 - 18:53:22: [SM] Call stack trace:
+L 12/10/2022 - 18:53:22: [SM]   [0] VFormat
+L 12/10/2022 - 18:53:22: [SM]   [1] Line 144, D:\BasicPawn\1.9stuff\include\LMCCore.inc::CPrintToChat
+L 12/10/2022 - 18:53:22: [SM]   [2] Line 679, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::ModelIndex
+L 12/10/2022 - 18:53:22: [SM]   [3] Line 1225, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::OnClientCookiesCached
+L 12/10/2022 - 18:55:19: [SM] Exception reported: Language phrase "Unsupported_Spitter" not found (arg 4)
+L 12/10/2022 - 18:55:19: [SM] Blaming: disable/addons/LMC/plugins/LMC_L4D2_Menu_Choosing.smx
+L 12/10/2022 - 18:55:19: [SM] Call stack trace:
+L 12/10/2022 - 18:55:19: [SM]   [0] VFormat
+L 12/10/2022 - 18:55:19: [SM]   [1] Line 144, D:\BasicPawn\1.9stuff\include\LMCCore.inc::CPrintToChat
+L 12/10/2022 - 18:55:19: [SM]   [2] Line 670, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::ModelIndex
+L 12/10/2022 - 18:55:19: [SM]   [3] Line 1225, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::OnClientCookiesCached
+L 12/10/2022 - 18:56:07: [SM] Exception reported: Language phrase "Unsupported_Jockey" not found (arg 4)
+L 12/10/2022 - 18:56:07: [SM] Blaming: disable/addons/LMC/plugins/LMC_L4D2_Menu_Choosing.smx
+L 12/10/2022 - 18:56:07: [SM] Call stack trace:
+L 12/10/2022 - 18:56:07: [SM]   [0] VFormat
+L 12/10/2022 - 18:56:07: [SM]   [1] Line 144, D:\BasicPawn\1.9stuff\include\LMCCore.inc::CPrintToChat
+L 12/10/2022 - 18:56:07: [SM]   [2] Line 679, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::ModelIndex
+L 12/10/2022 - 18:56:07: [SM]   [3] Line 1225, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::OnClientCookiesCached
+L 12/10/2022 - 19:08:00: SourceMod error session started
+L 12/10/2022 - 19:08:00: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 19:08:00: [SM] Failed to load plugin "l4d_zcs.smx": [+] APL2: Error: Plugin supports Left 4 Dead only, exiting..
+L 12/10/2022 - 19:08:00: [SM] Unable to load extension "actions.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/actions.ext.so: cannot open shared object file: No such file or directory
+L 12/10/2022 - 19:08:00: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 12/10/2022 - 19:08:00: [SM] Failed to load plugin "disable/addons/LMC/plugins/LMCL4D1SetTransmit.smx": Plugin only supports Left 4 Dead.
+L 12/10/2022 - 19:08:00: [SM] Failed to load plugin "disable/addons/LMC/plugins/LMC_L4D1_Menu_Choosing.smx": Plugin only supports Left 4 Dead.
+L 12/10/2022 - 19:08:00: [SM] Failed to load plugin "disable/addons/LMC/plugins/LMCL4D1CDeathHandler.smx": Plugin only supports Left 4 Dead.
+L 12/10/2022 - 19:08:00: [SM] Failed to load plugin "disable/addons/LMC/plugins/LMC_L4D1_RandomSpawns.smx": Plugin only supports Left 4 Dead.
+L 12/10/2022 - 19:08:01: [SM] Unable to load plugin "l4d_tankhelper.smx": Required extension "Actions" file("actions.ext") not running
+L 12/10/2022 - 19:08:04: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 12/10/2022 - 19:08:04: [SM] Error (line 0, column 0): Stream failed to open
+L 12/10/2022 - 19:08:04: [SM] Fatal error encountered parsing translation file "lmc.phrases.txt"
+L 12/10/2022 - 19:08:04: [SM] Error (line 0, column 0): Stream failed to open
+L 12/10/2022 - 19:08:05: [SM] Error parsing gameconfig file "/home/louis/l4d2/left4dead2/addons/sourcemod/gamedata/SuperTanks.txt":
+L 12/10/2022 - 19:08:05: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/10/2022 - 19:08:05: [SM] Exception reported: Unable to open SuperTanks: File could not be opened: No such file or directory
+L 12/10/2022 - 19:08:05: [SM] Blaming: SuperTanks.smx
+L 12/10/2022 - 19:08:05: [SM] Call stack trace:
+L 12/10/2022 - 19:08:05: [SM]   [0] LoadGameConfigFile
+L 12/10/2022 - 19:08:05: [SM]   [1] Line 743, C:\Users\gabrie lfaustino\Desktop\arquivos\sourcemod1\scripting\SuperTanks.sp::InitSDKCalls
+L 12/10/2022 - 19:08:05: [SM]   [2] Line 732, C:\Users\gabrie lfaustino\Desktop\arquivos\sourcemod1\scripting\SuperTanks.sp::OnPluginStart
+L 12/10/2022 - 19:08:05: [SM] Unable to load plugin "SuperTanks.smx": Error detected in plugin startup (see error logs)
+L 12/10/2022 - 19:08:15: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 12/10/2022 - 19:08:15: [SM] Error (line 0, column 0): Stream failed to open
+L 12/10/2022 - 19:08:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 19:08:15: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 19:08:15: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 19:40:36: [SM] Exception reported: Language phrase "Change_Model_Help_Chat" not found (arg 4)
+L 12/10/2022 - 19:40:36: [SM] Blaming: disable/addons/LMC/plugins/LMC_L4D2_Menu_Choosing.smx
+L 12/10/2022 - 19:40:36: [SM] Call stack trace:
+L 12/10/2022 - 19:40:36: [SM]   [0] VFormat
+L 12/10/2022 - 19:40:36: [SM]   [1] Line 144, D:\BasicPawn\1.9stuff\include\LMCCore.inc::CPrintToChat
+L 12/10/2022 - 19:40:36: [SM]   [2] Line 1089, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::iClientInfo
+L 12/10/2022 - 19:45:16: [SM] Exception reported: Language phrase "Unsupported_Jockey" not found (arg 4)
+L 12/10/2022 - 19:45:16: [SM] Blaming: disable/addons/LMC/plugins/LMC_L4D2_Menu_Choosing.smx
+L 12/10/2022 - 19:45:16: [SM] Call stack trace:
+L 12/10/2022 - 19:45:16: [SM]   [0] VFormat
+L 12/10/2022 - 19:45:16: [SM]   [1] Line 144, D:\BasicPawn\1.9stuff\include\LMCCore.inc::CPrintToChat
+L 12/10/2022 - 19:45:16: [SM]   [2] Line 679, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::ModelIndex
+L 12/10/2022 - 19:45:16: [SM]   [3] Line 1225, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::OnClientCookiesCached
+L 12/10/2022 - 19:46:14: [SM] Exception reported: Language phrase "Lux's Model Changer" not found (arg 4)
+L 12/10/2022 - 19:46:14: [SM] Blaming: disable/addons/LMC/plugins/LMC_L4D2_Menu_Choosing.smx
+L 12/10/2022 - 19:46:14: [SM] Call stack trace:
+L 12/10/2022 - 19:46:14: [SM]   [0] VFormat
+L 12/10/2022 - 19:46:14: [SM]   [1] Line 111, D:\BasicPawn\1.9stuff\include\LMCCore.inc::Translate
+L 12/10/2022 - 19:46:14: [SM]   [2] Line 527, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::ShowMenu
+L 12/10/2022 - 19:46:14: [SM]   [3] Line 505, D:\Github\Luxs-Model-Changer\addons\sourcemod\scripting\LMC_L4D2_Menu_Choosing.sp::ShowMenuCmd
+L 12/10/2022 - 19:54:45: SourceMod error session started
+L 12/10/2022 - 19:54:45: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20221210.log")
+L 12/10/2022 - 19:54:45: [SM] Failed to load plugin "l4d_zcs.smx": [+] APL2: Error: Plugin supports Left 4 Dead only, exiting..
+L 12/10/2022 - 19:54:45: [SM] Unable to load extension "actions.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/actions.ext.so: cannot open shared object file: No such file or directory
+L 12/10/2022 - 19:54:45: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 12/10/2022 - 19:54:45: [SM] Unable to load plugin "l4d_tankhelper.smx": Required extension "Actions" file("actions.ext") not running
+L 12/10/2022 - 19:54:45: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 12/10/2022 - 19:54:45: [SM] Error (line 0, column 0): Stream failed to open
+L 12/10/2022 - 19:54:45: [SM] Error parsing gameconfig file "/home/louis/l4d2/left4dead2/addons/sourcemod/gamedata/SuperTanks.txt":
+L 12/10/2022 - 19:54:45: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/10/2022 - 19:54:45: [SM] Exception reported: Unable to open SuperTanks: File could not be opened: No such file or directory
+L 12/10/2022 - 19:54:45: [SM] Blaming: SuperTanks.smx
+L 12/10/2022 - 19:54:45: [SM] Call stack trace:
+L 12/10/2022 - 19:54:45: [SM]   [0] LoadGameConfigFile
+L 12/10/2022 - 19:54:45: [SM]   [1] Line 743, C:\Users\gabrie lfaustino\Desktop\arquivos\sourcemod1\scripting\SuperTanks.sp::InitSDKCalls
+L 12/10/2022 - 19:54:45: [SM]   [2] Line 732, C:\Users\gabrie lfaustino\Desktop\arquivos\sourcemod1\scripting\SuperTanks.sp::OnPluginStart
+L 12/10/2022 - 19:54:45: [SM] Unable to load plugin "SuperTanks.smx": Error detected in plugin startup (see error logs)
+L 12/10/2022 - 19:54:46: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 12/10/2022 - 19:54:46: [SM] Error (line 0, column 0): Stream failed to open
+L 12/10/2022 - 19:54:46: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2022 - 19:54:46: [admin-flatfile.smx]  (line 7) Failed to create admin: did you forget either the auth or identity properties?
+L 12/10/2022 - 19:54:46: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 12/10/2022 - 19:56:33: [SM] Plugin "l4d2_tankhp.smx" encountered error 23: Native detected error
+L 12/10/2022 - 19:56:33: [SM] Invalid data handle 5 (error 7) passed during timer end with TIMER_DATA_HNDL_CLOSE
+L 12/10/2022 - 19:56:33: [SM] Unable to call function "GetTankHealth" due to above error(s).
